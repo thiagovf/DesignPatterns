@@ -1,0 +1,1 @@
+The codes in this folder were got in http://www.newthinktank.com/2012/10/state-design-pattern-tutorial/;
