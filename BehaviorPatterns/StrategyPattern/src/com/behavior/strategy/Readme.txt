@@ -1,0 +1,1 @@
+The codes in this folder are got in http://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/;
